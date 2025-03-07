@@ -2,7 +2,7 @@ baseURL = "/"
 title = "Spectral"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-paginate = "7"
+pagination.pagerSize = "7"
 theme = "spectral"
 #googleAnalytics = "G-XXXXXXXXXX"
 
